@@ -1,0 +1,25 @@
+.welcome {
+  text-align: center;
+}
+.logo {
+  position: absolute;
+  width: 90px;
+  top: 13px;
+}
+hr {
+  border: 1px solid black;
+  margin:0px;
+  padding:0px;
+}
+.next {
+  left: 175px;
+  position: absolute;
+  border:1px solid black;
+  margin-top: -15px;
+  cursor: pointer;
+  padding: 10px 24px;
+}
+.whatsapp {
+  position:absolute;
+  padding-top: 150px;
+}
